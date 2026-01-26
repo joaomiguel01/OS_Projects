@@ -1,4 +1,4 @@
-# 🚀 My Programs Repository
+# 🚀 OS Projects
 
 ![C](https://img.shields.io/badge/C-Programming-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -30,7 +30,7 @@ This repository contains my **personal projects** developed throughout my journe
 ---
 
 ### 🛠️ Technologies
-- 🧠 C
+-  🧠 C
 - 🔧 Git & GitHub (version control)
 
 ---
