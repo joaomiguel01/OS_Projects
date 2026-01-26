@@ -1,6 +1,6 @@
 # 🚀 My Programs Repository
 
-![C]
+![C](https://img.shields.io/badge/C-Programming-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
@@ -23,14 +23,14 @@ B.Sc. in Computer Science — UFRPE (Currently in 3rd semester)
 ### 📖 Description
 This repository contains my **personal projects** developed throughout my journey as a software developer.  
 
-💡 Projects range from **basic scripts** to **complex Operating System Projects**, focusing on **clean code**, **best practices**, and **continuous improvement**.  
+💡 Projects range from **basic scripts** to **Operating System–related projects**, focusing on **clean code**, **best practices**, and **continuous improvement**.  
 
 💪 Motto: *"Completing projects, facing challenges, studying, learning, and continuously optimizing solutions."*
 
 ---
 
 ### 🛠️ Technologies
--    C
+- 🧠 C
 - 🔧 Git & GitHub (version control)
 
 ---
@@ -38,11 +38,32 @@ This repository contains my **personal projects** developed throughout my journe
 ### 🗂️ Project Structure
 
 Projects/  
-├── Project1/ # SO projects  
+├── Project1/ # OS projects  
 │   ├── arq.c/...  
-├── Project2/ # SO projects  
+├── Project2/  
 │   ├── arq.c/...  
 
 ---
 
 ### How to Run
+
+Most projects in this repository are written in **C** and were developed for **Linux-based systems**.
+
+#### 📌 Requirements
+- GCC (GNU Compiler Collection)
+- Linux environment (Ubuntu, Arch, Fedora, etc.)
+
+1. Install GCC if necessary:
+```bash
+sudo apt install build-essential
+```
+
+2. Compile:
+```bash
+gcc main.c -o program # or replace 'main.c' with the correct file name
+```
+
+3. Run:
+```bash
+./program 
+```
